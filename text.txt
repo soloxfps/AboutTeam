@@ -1,0 +1,13 @@
+1) Initializing git in current directory
+   git init
+2)git configuration
+   git config --global user.name 'username'
+   git config --global user.email 'emailid'
+3)configuration list
+   git config --list
+4)checking status of current directory
+   git status
+5)track all the files and folders
+   git add index.html style.css images
+   git add --all/ git add -A
+   
