@@ -10,4 +10,8 @@
 5)track all the files and folders
    git add index.html style.css images
    git add --all/ git add -A
-   
+6)commit the files
+   git commit -m "messages"
+7)remote repository
+   git remote add portfolio https://github.com/soloxfps/pythonsep24.git
+8)git push portfolio master
